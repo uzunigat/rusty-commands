@@ -1,10 +1,10 @@
-# Rusty Shell
+# Rusty Commands
 
 Rusty Shell is a custom shell implemented in Rust. It provides various commands to manage files and directories.
 
 ## Table of Contents
 
-- [Rusty Shell](#rusty-shell)
+- [Rusty Commands](#rusty-commands)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
   - [Build the project](#build-the-project)
